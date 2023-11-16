@@ -14,12 +14,13 @@ html,body{
 
 .elem{
     height: 120px;
-    width: 100%;
+    width: 97%;
+    margin: 25px;
     /* background-color: red; */
-    border-bottom: 2px solid rgb(248, 247, 247);
+    border: 2px solid rgb(248, 247, 247);
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     /* position: relative; */
 }
 
